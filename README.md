@@ -1,9 +1,9 @@
 #Mock App
-Repository contains sample codes required to build an anonymous group chat application using Cloudilly iOS ObjC SDK.
+Repository contains sample codes required to build a quick mock app that consists of just images. Tap anywhere to move to the next picture. Great for hackathons and product demos.
 
-![Anonymous](https://github.com/Cloudilly/Images/blob/master/hack.jpg)
+![Rainbow](https://github.com/Cloudilly/Images/blob/master/hack.jpg)
 
 ---
 
-#####Create app
-If you have not already done so, first create an account on [Cloudilly](https://cloudilly.com). Next create an app
+#####Instructions
+To use, simply replace existing images in Assets.xcassets with your own mocks. Code has of 7 view controllers named sequentially from "OneViewController", "TwoViewController", "ThreeViewController"... to "SevenViewController". When tapped anywhere on the screen, app changes to the next view controller until the seventh. Add more empty UIViews with its own gestureRecognizer if want more complex routing.
