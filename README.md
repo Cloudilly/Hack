@@ -1,6 +1,7 @@
 #Mock App
-Repository contains sample codes required to build a quick mock app that consists of just images. Tap anywhere to move to the next picture. Great for hackathons and product demos.
+Repository contains sample codes required to build a quick mock app that consists of just images. Great for hackathons and product demos.
 
+Flow of app shown sequentially below. Tap anywhere on screen to move to the next view.
 ![Rainbow](https://github.com/Cloudilly/Images/blob/master/hack.jpg)
 
 ---
