@@ -1,9 +1,9 @@
 //
 //  SevenViewController.h
-//  vendors
+//  hack
 //
 //  Created by Zhongcai Ng on 23/7/15.
-//  Copyright (c) 2015 Jetbay Inc. All rights reserved.
+//  Copyright © 2015 Cloudilly Private Limited. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
