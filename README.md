@@ -1,7 +1,5 @@
 #Mock App
-Build a quick mock app consisting of just static images. Great for hackathons and product demos.
-
-Flow of app shown sequentially below. Tap anywhere on screen to move to the next view.
+Build a quick mock app consisting of just static images. Great for hackathons and product demos. Flow of app shown sequentially below. Tap anywhere on screen to move to the next view.
 ![Rainbow](https://github.com/Cloudilly/Images/blob/master/hack.jpg)
 
 ---
