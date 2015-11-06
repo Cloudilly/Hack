@@ -7,4 +7,4 @@ Flow of app shown sequentially below. Tap anywhere on screen to move to the next
 ---
 
 #####Instructions
-To use, simply replace existing images in Assets.xcassets with your own mocks. Code has of 7 view controllers named sequentially from "OneViewController", "TwoViewController", "ThreeViewController"... to "SevenViewController". When tapped anywhere on the screen, app changes to the next view controller until the seventh. Add more empty UIViews with its own gestureRecognizer if want more complex routing.
+To use, simply replace existing images in Assets.xcassets with your own mocks. Code has 7 view controllers named sequentially from "OneViewController", "TwoViewController", "ThreeViewController"... to "SevenViewController". When tapped anywhere on the screen, app changes to the next view controller until the seventh. Add more empty UIViews with its own gestureRecognizer if want more complex routing.
